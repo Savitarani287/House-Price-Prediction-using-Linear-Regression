@@ -83,7 +83,7 @@ python house_price_prediction.py
 
 ```
 House-Price-Prediction/
-│── house_price_prediction.py
+│── house.py
 │── README.md
 ```
 
